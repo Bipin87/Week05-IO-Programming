@@ -1,0 +1,11 @@
+{
+  "name": "Bipin Kumar Sahu",
+  "age": 21,
+  "city": "Bhopal",
+  "skills": ["Java", "Python", "JavaScript"],
+  "experience": {
+    "company": "Capgemini",
+    "role": "Developer Engineer",
+    "years": 2
+  }
+}
