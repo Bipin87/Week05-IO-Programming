@@ -1,0 +1,8 @@
+{
+  "name" : "Bipin",
+  "age" : 21,
+  "email" : "bipin@example.com",
+  "city" : "Bhopal",
+  "country" : "INDIA",
+  "phone" : "123-456-7890"
+}
